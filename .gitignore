@@ -102,3 +102,13 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Don't videos
+*.mp4
+*.avi
+LDS\ 14-20/
+.mp4
+.avi
+
+# Don't upload solutions
+solutions/
